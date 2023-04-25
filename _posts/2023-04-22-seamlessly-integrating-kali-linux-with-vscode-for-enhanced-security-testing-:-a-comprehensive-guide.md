@@ -150,6 +150,9 @@ We've configured the virtual machine to use a bridged network adapter, connectin
         - `PermitEmptyPasswords no`
         - `PubkeyAuthentication yes`
 
+> When connecting to a virtual machine (VM) on your local computer, it's still advisable to use SSH keys for secure access, regardless of whether you're using a terminal or an application like VSCode. However, keep in mind the potential risk of a compromised local machine. If an unauthorized user obtains your private key, they could access your VM. To reduce this risk, protect your private key with a strong passphrase. Additionally, consider implementing two-factor authentication (2FA) as an extra security measure, although enabling 2FA for SSH connections may require extra configuration or tools. In summary, using SSH keys, a robust passphrase, and considering 2FA are essential practices for securely accessing your local VM.
+{: .prompt-info}
+
     - Exit the text editor and restart ssh.
 
         - `sudo systemctl restart ssh`
@@ -342,6 +345,9 @@ I created this blog using the technique of integrating Kali Linux with Visual St
 ## Step 6: Troubleshooting and Common Issues
 - 
 I have not encountered any issues so far. However, if you face any problems, try terminating processes or shutting down your virtual machine if you have opened too many windows while remotely logging into your account.
+
+> Your Virtual Machine must be running in order to access it via SSH. Essentially think of it as hosting your own server, if it is shut down you can't access it. I'd recommend using a cloud provider if you don't have a lot of resources (CPU, RAM, Storage) on your local machine.
+{: .prompt-tip}
 
 ## Conclusion
 - In conclusion, integrating Kali Linux with Visual Studio Code (VSCode) offers numerous benefits to developers, security professionals, and technology enthusiasts alike. This powerful combination streamlines your workflow, enhances productivity, and facilitates a more efficient use of time and resources.
