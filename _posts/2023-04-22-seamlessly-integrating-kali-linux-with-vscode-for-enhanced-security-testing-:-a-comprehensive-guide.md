@@ -341,7 +341,7 @@ I Created this blog using this technique, I did not leave VSCode at all using so
 
 ## Step 6: Troubleshooting and Common Issues
 - 
-I have not run into any issues as of yet, If any issues do arise try to end processes, or your VM if you open too many windows from remotely logging into your account.
+I have not encountered any issues so far. However, if you face any problems, try terminating processes or shutting down your virtual machine if you have opened too many windows while remotely logging into your account.
 
 ## Conclusion
 - In conclusion, integrating Kali Linux with Visual Studio Code (VSCode) offers numerous benefits to developers, security professionals, and technology enthusiasts alike. This powerful combination streamlines your workflow, enhances productivity, and facilitates a more efficient use of time and resources.
