@@ -321,7 +321,7 @@ You can perform navigate through the system faster than you would manually. Tace
 ![Autopsy](https://i.imgur.com/8i7EfQ6.png)
 
 
-You can copy your files directly from you local machine into your virtual machine.
+You can files directly from your local machine into your virtual machine.
 
 ![Copy & Paste](https://i.imgur.com/7XfNJWF.png)
 
