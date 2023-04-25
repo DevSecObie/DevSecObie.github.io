@@ -228,7 +228,7 @@ We've configured the virtual machine to use a bridged network adapter, connectin
 
     ![SSH Config](https://i.imgur.com/jUxxLma.png)
 
-- Change your hostname to whatever you'd like.
+- Change your "Host" name to whatever you'd like.
     
     ![hostname](https://i.imgur.com/9WbVw34.png)
 
