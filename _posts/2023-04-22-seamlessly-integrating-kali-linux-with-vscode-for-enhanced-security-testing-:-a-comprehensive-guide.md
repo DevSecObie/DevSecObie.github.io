@@ -331,7 +331,7 @@ Open Many shells in Metasploit, there is no no limit!
 ![Mfsconsole](https://i.imgur.com/Ge523o0.png)
 
 
-I Created this blog using this technique, I did not leave VSCode at all using some of their plugins.
+I created this blog using the technique of integrating Kali Linux with Visual Studio Code, and I was able to stay within VSCode throughout the entire process, thanks to some of their helpful plugins. This seamless integration allowed me to work efficiently and productively without the need to switch between multiple tools or platforms.
 
 ![Blog](https://i.imgur.com/axcgATw.png)
 
