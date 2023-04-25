@@ -315,18 +315,19 @@ Disable unnecessary services: Disable any services and applications that are not
 
 ## Step 5: Performing Security Testing within VSCode
 
-You can perform navigate through the system faster than you would manually. Taceback errors can be opened directly in a window.
-
+By integrating Kali Linux with Visual Studio Code, you can navigate through the system more efficiently than you would by doing it manually. This streamlined workflow enables you to quickly identify and address issues, such as traceback errors. When errors occur, you can directly open them in a separate window within VSCode, making it easier to debug and resolve problems without leaving your environment. This enhances productivity and saves valuable time compared to traditional manual approaches.
 
 ![Autopsy](https://i.imgur.com/8i7EfQ6.png)
 
 
-You can files directly from your local machine into your virtual machine.
+You can easily transfer files directly from your local machine to your virtual machine. This capability simplifies the process of working with files across different environments and ensures a smooth workflow when using tools like Kali Linux and Visual Studio Code.
+
 
 ![Copy & Paste](https://i.imgur.com/7XfNJWF.png)
 
 
-Open Many shells in Metasploit, there is no no limit!
+With Metasploit, you can open multiple shells simultaneously, providing you with the flexibility to manage various tasks and sessions in parallel. While there may not be a hard limit on the number of shells you can open, it's essential to consider your system's resources and performance to ensure an efficient and stable experience.
+
 
 ![Mfsconsole](https://i.imgur.com/Ge523o0.png)
 
